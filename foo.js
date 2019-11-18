@@ -1,1 +1,2 @@
-Foo
+console.log("bar");
+
